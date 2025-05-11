@@ -1,7 +1,7 @@
 {
-  "name": "gullible-gravity",
+  "name": "blog",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -12,6 +12,7 @@
     "@astrojs/mdx": "^4.2.6",
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.3.1",
+    "@supabase/supabase-js": "^2.49.4",
     "astro": "^5.7.12"
   }
 }
